@@ -188,10 +188,10 @@ pub fn init() -> Menu {
         "QuickType Log",
       ))
       .add_item(CustomMenuItem::new("update_log".to_string(), "Update Log"))
-      .add_item(
-        CustomMenuItem::new("dev_tools".to_string(), "Toggle Developer Tools")
-          .accelerator("CmdOrCtrl+Shift+I"),
-      ),
+      // .add_item(
+      //   CustomMenuItem::new("dev_tools".to_string(), "Toggle Developer Tools")
+      //     .accelerator("CmdOrCtrl+Shift+I"),
+      // ),
   );
 
   Menu::new()

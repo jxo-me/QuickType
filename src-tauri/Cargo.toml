@@ -1,5 +1,5 @@
 [package]
-name = "QuickType"
+name = "quick_type"
 version = "0.0.0"
 description = "generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages."
 authors = ["Mickey"]
