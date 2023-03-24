@@ -1,0 +1,36 @@
+[package]
+name = "quick-type"
+version = "0.0.0"
+description = "generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages."
+authors = ["Mickey"]
+license = "GPL-3.0"
+repository = "https://github.com/jxo-me/quick-type.git"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+tauri-build = { version = "1.2", features = [] }
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+log = "0.4.17"
+wry = "0.24"
+reqwest = "0.11.14"
+regex = "1.7.0"
+dark-light = "1.0.0"
+anyhow = "1.0.66"
+walkdir = "2.3"
+thiserror = "1.0.38"
+tokio = { version = "1.23.0", features = ["macros"] }
+tauri = { version = "1.2.4", features = ["devtools", "fs-create-dir", "fs-exists", "fs-read-dir", "fs-read-file", "fs-remove-dir", "fs-remove-file", "fs-write-file", "global-shortcut", "global-shortcut-all", "os-all", "path-all", "process-all", "shell-open-api", "system-tray", "updater"] }
+tauri-plugin-positioner = { git = "https://github.com/lencx/tauri-plugins-workspace", features = ["system-tray"] }
+tauri-plugin-log = { git = "https://github.com/lencx/tauri-plugins-workspace", branch = "dev", features = ["colored"] }
+tauri-plugin-autostart = { git = "https://github.com/lencx/tauri-plugins-workspace", branch = "dev" }
+tauri-plugin-window-state = { git = "https://github.com/lencx/tauri-plugins-workspace", branch = "dev" }
+
+[features]
+# this feature is used for production builds or when `devPath` points to the filesystem
+# DO NOT REMOVE!!
+custom-protocol = ["tauri/custom-protocol"]
