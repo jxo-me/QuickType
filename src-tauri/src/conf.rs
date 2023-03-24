@@ -8,7 +8,7 @@ use tauri::TitleBarStyle;
 
 use crate::utils::{app_root, create_file, exists};
 
-pub const UPDATE_LOG_URL: &str = "https://github.com/jxo-me/quick-type/blob/main/UPDATE_LOG.md";
+pub const UPDATE_LOG_URL: &str = "https://github.com/jxo-me/QuickType/blob/main/UPDATE_LOG.md";
 
 pub const APP_CONF_PATH: &str = "quick.conf.json";
 pub const APP_URL: &str = "https://app.quicktype.io";

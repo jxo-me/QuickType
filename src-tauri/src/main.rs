@@ -21,7 +21,7 @@ fn main() {
     let mut log = tauri_plugin_log::Builder::default()
     .targets([
       // LogTarget::LogDir,
-      // LOG PATH: ~/.quickType/quick-type.log
+      // LOG PATH: ~/.quickType/quickType.log
       LogTarget::Folder(utils::app_root()),
       LogTarget::Stdout,
       LogTarget::Webview,

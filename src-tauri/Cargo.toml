@@ -1,10 +1,10 @@
 [package]
-name = "quick-type"
+name = "QuickType"
 version = "0.0.0"
 description = "generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages."
 authors = ["Mickey"]
 license = "GPL-3.0"
-repository = "https://github.com/jxo-me/quick-type.git"
+repository = "https://github.com/jxo-me/QuickType.git"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

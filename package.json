@@ -2,7 +2,7 @@
   "name": "quicktype",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jxo-me.github.io/quick-type",
+  "homepage": "https://jxo-me.github.io/QuickType",
   "scripts": {
     "dev:fe": "vite",
     "build:fe": "tsc && vite build",

@@ -3,6 +3,29 @@
 version = 3
 
 [[package]]
+name = "QuickType"
+version = "0.0.0"
+dependencies = [
+ "anyhow",
+ "dark-light",
+ "log",
+ "regex",
+ "reqwest",
+ "serde",
+ "serde_json",
+ "tauri",
+ "tauri-build",
+ "tauri-plugin-autostart",
+ "tauri-plugin-log",
+ "tauri-plugin-positioner",
+ "tauri-plugin-window-state",
+ "thiserror",
+ "tokio",
+ "walkdir",
+ "wry 0.24.1",
+]
+
+[[package]]
 name = "adler"
 version = "1.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2444,29 +2467,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1d0e1ae9e836cc3beddd63db0df682593d7e2d3d891ae8c9083d2113e1744224"
 dependencies = [
  "unicode-ident",
-]
-
-[[package]]
-name = "quick-type"
-version = "0.0.0"
-dependencies = [
- "anyhow",
- "dark-light",
- "log",
- "regex",
- "reqwest",
- "serde",
- "serde_json",
- "tauri",
- "tauri-build",
- "tauri-plugin-autostart",
- "tauri-plugin-log",
- "tauri-plugin-positioner",
- "tauri-plugin-window-state",
- "thiserror",
- "tokio",
- "walkdir",
- "wry 0.24.1",
 ]
 
 [[package]]
