@@ -1,35 +1,35 @@
 {
-  "version": "v0.1.19",
-  "notes": "Fix: update log url",
-  "pub_date": "2023-03-24T06:48:32.220Z",
+  "version": "v0.1.21",
+  "notes": "Fix: ci script",
+  "pub_date": "2023-03-24T10:57:42.087Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLzU1Z0VPRlJZZnBXZ0xsNDBCc0ZRM2pLQmN6MGtZekEyZlF6RTY0N0pJQmI4VVhILzRrdEQ4MWZTb1lUK1pUcEUyU2tTd3VweDdpZTJZMTZQMSsyUEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjQwMjU5CWZpbGU6UXVpY2tUeXBlXzAuMS4xOV94NjRfemgtQ04ubXNpLnppcApnTkh5WWNaOEsxZmhkTkhIVE1hNHZyOWpGTVVSK0xmNllFSlRoMDUwS0pTc2xjWitjV1luRllmSjYxQ3BvSjRYTUQ1SHFKOWhqZDNwY3Z6TXJ5S1pDQT09Cg==",
-      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.19/QuickType_0.1.19_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLytMWFBtWHIyVDdhNS9Cb0tpTzFSSzZQWXBaTjNNRVRHemJvd2dvV2lRKytPUHN4RGxGZ3lSTGhsdlY1U1Vvckg3Q3RyekVrOEc0ci8wa0NsRm9ZSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjU1MzQwCWZpbGU6UXVpY2tUeXBlXzAuMS4yMV94NjRfemgtQ04ubXNpLnppcApNOFo3Z3BvaDVrdUw1MHRiK0hRRkJrTHdSaW9BWnhrUUtpcHovVEhnSmVMUmZRMjZVeHhBVUFTaEJlRVA3MUJuVjcwR2RkRjJSTk1Pa0Fhb3QwaHJCQT09Cg==",
+      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.21/QuickType_0.1.21_windows_x86_64.msi.zip"
     },
     "linux": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLysya3dwK2xzd3JFU0I2L2FOa3Evb0lZWEIxa016Ym5EYjM5Wkp0N2wzMHJVM3BtWXJKOWJyQnJhL3NwRVJrZkF1d2xJWUErbjdMN0hVQjhwbDJPakFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjQwMTk4CWZpbGU6cXVpY2stdHlwZV8wLjEuMTlfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CittOWRHSnRpWlVNWnZsT1JjczBFN1dhM09ldHVPVkJsa2tCazRNdGRWdUE5UVJwSjVzbzZZOGc3ZXRNTUZ5ZUxpQUhHalJ2ZlhjbjVzMStpcmxGSkN3PT0K",
-      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.19/QuickType_0.1.19_linux_x86_64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLy8zR3hDSm12aWxrZFJUVzN6TkxHcHM1djgxd2NPTnlLVWtGRjBjV1dZNVY2SmRramZLcnRhWVp3WTlyQXpGNzNib2NvUjZteTl4aFJvbDA2T29vNUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjU1MTI4CWZpbGU6cXVpY2stdHlwZV8wLjEuMjFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkVMME5ham96UHJNS1JMcklLN3J4OGcvU3B6R3BTdzRxUFpOdm05N1FpZHVLSUdBME9kV3R5Q2pQVmFmc29XcmtCWG9QeVFLMUVuR1hBTzJEVXhLYkRBPT0K",
+      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.21/QuickType_0.1.21_linux_x86_64.AppImage.tar.gz"
     },
     "darwin": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuL3pLRkc5TFZKSFcxMGJLQ1JVV0JnVWg1N3VVTUV5SjFRTFpnUjVudHNraUpnRDk4U2RFUmI5Nm5rV2pGYVY1dmVHT1JuV3ArWC9VM0hQQnZPU1hxQ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjQwMTczCWZpbGU6UXVpY2tUeXBlLmFwcC50YXIuZ3oKaDZ6TG4wcHU1a1hWYW5iQ3RwbUVnNE84R0hBTDB2VTQwNmRZUXhWaEp6YzVaMmgwTk5jTWkzREs0M1ZyeDdHUmkzTmw4OVVsM2FEUDdlejhwSzNiQ2c9PQo=",
-      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.19/QuickType_0.1.19_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLzZwazJBdUNMb2NoL2hsaFl4WHpoZW5WUkhueW1jSzZGYWlRY3JXQlZHYVViUGpldkQxZDhGWlNKUXhBV2tFcUhSUi9paHVhS3QxVnZvMmFVR0ErOXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjU1MDg3CWZpbGU6UXVpY2tUeXBlLmFwcC50YXIuZ3oKZEQvS2RwVE9YYmozWEtCa0FGL1p1VkhpUlVzK2RDZnFGeGJYZHZDTzhLQVN4UUdwYTNDaFNmSE5QSVpKQnZNWnRVQmNIN3pUeFVOMzFtV2ZzVE9pRGc9PQo=",
+      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.21/QuickType_0.1.21_macos_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLzJLcVBtMW9nd1RRMzZrbUR3OXNMR0F3ZC9UZVVmNlRrQk1uekFhWElWL2I0VnFhZFF0Vnd2TGxZbU9ScldTeUhaSGpMMzd6UlhkMDZXREVRY3F6ZGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjQwMjQwCWZpbGU6UXVpY2tUeXBlLmFwcC50YXIuZ3oKWnRYM0tBUE82eE0vUDZNTEo0ZVVHamdJZGJYelF5M2VkVTFFNXVHTXY3VXlGNFpEeTVyTHFuU2doYlZ0L1JaS3ovOVJLWXc1RGJ3OHovKzNLTk8yQ1E9PQo=",
-      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.19/QuickType_0.1.19_macos_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLy9rNFVtcEx6N29UY1NsOWtjUVAwaDZmdWxIN3VNNkdRNlhod0VhelByc2NzRDZ1RUxqT2puZzg0OG9xY1NITUsxUVZRSFlQK1pFSFd1MjFXcnJVZ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjU1MjM0CWZpbGU6UXVpY2tUeXBlLmFwcC50YXIuZ3oKRmlGMmtDeit4NXR2eCtPeEo1NjB2MUxGR0JxVkE5eW5BQzRhc29pclVPaXJtb3UwVjQ3aDU3Y2pjdVp2Sk9oOFNBZkN2bkE3TXVlUmF3R0QvK282Q1E9PQo=",
+      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.21/QuickType_0.1.21_macos_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuL3pLRkc5TFZKSFcxMGJLQ1JVV0JnVWg1N3VVTUV5SjFRTFpnUjVudHNraUpnRDk4U2RFUmI5Nm5rV2pGYVY1dmVHT1JuV3ArWC9VM0hQQnZPU1hxQ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjQwMTczCWZpbGU6UXVpY2tUeXBlLmFwcC50YXIuZ3oKaDZ6TG4wcHU1a1hWYW5iQ3RwbUVnNE84R0hBTDB2VTQwNmRZUXhWaEp6YzVaMmgwTk5jTWkzREs0M1ZyeDdHUmkzTmw4OVVsM2FEUDdlejhwSzNiQ2c9PQo=",
-      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.19/QuickType_0.1.19_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLzZwazJBdUNMb2NoL2hsaFl4WHpoZW5WUkhueW1jSzZGYWlRY3JXQlZHYVViUGpldkQxZDhGWlNKUXhBV2tFcUhSUi9paHVhS3QxVnZvMmFVR0ErOXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjU1MDg3CWZpbGU6UXVpY2tUeXBlLmFwcC50YXIuZ3oKZEQvS2RwVE9YYmozWEtCa0FGL1p1VkhpUlVzK2RDZnFGeGJYZHZDTzhLQVN4UUdwYTNDaFNmSE5QSVpKQnZNWnRVQmNIN3pUeFVOMzFtV2ZzVE9pRGc9PQo=",
+      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.21/QuickType_0.1.21_macos_x86_64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLysya3dwK2xzd3JFU0I2L2FOa3Evb0lZWEIxa016Ym5EYjM5Wkp0N2wzMHJVM3BtWXJKOWJyQnJhL3NwRVJrZkF1d2xJWUErbjdMN0hVQjhwbDJPakFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjQwMTk4CWZpbGU6cXVpY2stdHlwZV8wLjEuMTlfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CittOWRHSnRpWlVNWnZsT1JjczBFN1dhM09ldHVPVkJsa2tCazRNdGRWdUE5UVJwSjVzbzZZOGc3ZXRNTUZ5ZUxpQUhHalJ2ZlhjbjVzMStpcmxGSkN3PT0K",
-      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.19/QuickType_0.1.19_linux_x86_64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLy8zR3hDSm12aWxrZFJUVzN6TkxHcHM1djgxd2NPTnlLVWtGRjBjV1dZNVY2SmRramZLcnRhWVp3WTlyQXpGNzNib2NvUjZteTl4aFJvbDA2T29vNUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjU1MTI4CWZpbGU6cXVpY2stdHlwZV8wLjEuMjFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkVMME5ham96UHJNS1JMcklLN3J4OGcvU3B6R3BTdzRxUFpOdm05N1FpZHVLSUdBME9kV3R5Q2pQVmFmc29XcmtCWG9QeVFLMUVuR1hBTzJEVXhLYkRBPT0K",
+      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.21/QuickType_0.1.21_linux_x86_64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLzU1Z0VPRlJZZnBXZ0xsNDBCc0ZRM2pLQmN6MGtZekEyZlF6RTY0N0pJQmI4VVhILzRrdEQ4MWZTb1lUK1pUcEUyU2tTd3VweDdpZTJZMTZQMSsyUEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjQwMjU5CWZpbGU6UXVpY2tUeXBlXzAuMS4xOV94NjRfemgtQ04ubXNpLnppcApnTkh5WWNaOEsxZmhkTkhIVE1hNHZyOWpGTVVSK0xmNllFSlRoMDUwS0pTc2xjWitjV1luRllmSjYxQ3BvSjRYTUQ1SHFKOWhqZDNwY3Z6TXJ5S1pDQT09Cg==",
-      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.19/QuickType_0.1.19_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1FEeTlEZzJuLytMWFBtWHIyVDdhNS9Cb0tpTzFSSzZQWXBaTjNNRVRHemJvd2dvV2lRKytPUHN4RGxGZ3lSTGhsdlY1U1Vvckg3Q3RyekVrOEc0ci8wa0NsRm9ZSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NjU1MzQwCWZpbGU6UXVpY2tUeXBlXzAuMS4yMV94NjRfemgtQ04ubXNpLnppcApNOFo3Z3BvaDVrdUw1MHRiK0hRRkJrTHdSaW9BWnhrUUtpcHovVEhnSmVMUmZRMjZVeHhBVUFTaEJlRVA3MUJuVjcwR2RkRjJSTk1Pa0Fhb3QwaHJCQT09Cg==",
+      "url": "https://github.com/jxo-me/QuickType/releases/download/v0.1.21/QuickType_0.1.21_windows_x86_64.msi.zip"
     }
   }
 }
